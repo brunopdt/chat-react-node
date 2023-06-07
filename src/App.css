@@ -3,17 +3,8 @@
 .ce-my-message-body,
 .ce-my-message-timestamp,
 .ce-message-date-text,
-.ce-my-message-body-false {
+.ce-my-message-body .ce-their-message-body {
   font-family: 'Avenir', sans-serif !important;
-}
-
-@keyframes forceFont {
-  from {
-    font-family: 'Avenir';
-  }
-  to {
-    font-family: 'Avenir', sans-serif;
-  }
 }
 
 body {
