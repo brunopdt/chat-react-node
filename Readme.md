@@ -19,7 +19,7 @@ Este é um projeto de chat em tempo real desenvolvido com a API do ChatEngine.io
 
 ## Capturas de Tela
 
-![Tela de Login](./assets/chat-1.png)
+![Tela de Login](./assets/chat-1.jpg)
 _Figura 1: Sala de Chat_
 
 ![Sala de Chat](./assets/chat-2.jpg)
