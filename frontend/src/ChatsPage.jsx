@@ -1,7 +1,7 @@
 import { PrettyChatWindow } from 'react-chat-engine-pretty'
 
 const ChatsPage = props => {
-  const projID = '49637c7c-ab39-4dcc-9ad8-3da99ba9daac'
+  const projID = '66002d2f-97d6-4653-892f-23d5daf8e11c'
 
   return (
     <div className="background">

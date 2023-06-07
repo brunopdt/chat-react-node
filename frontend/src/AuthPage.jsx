@@ -23,7 +23,7 @@ const AuthPage = props => {
 
         <div className="auth">
           <div className="auth-label">Nome</div>
-          <input className="auth-input" name="username" autocomplete="off" />
+          <input className="auth-input" name="username" autoComplete="off" />
           <button className="auth-button" type="submit">
             Entrar
           </button>

@@ -1,7 +1,7 @@
 const express = require('express')
 const cors = require('cors')
 const axios = require('axios')
-const privateKey = 'feb32e6f-ee4e-44d0-be36-aa73650140a7'
+const privateKey = '2e8d08a7-e4d7-44dc-8072-19590259254e'
 
 const app = express()
 app.use(express.json())

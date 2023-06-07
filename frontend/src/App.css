@@ -1,13 +1,15 @@
 *,
 ::placeholder,
 .ce-my-message-body,
-.ce-message-date-text {
+.ce-my-message-timestamp,
+.ce-message-date-text,
+.ce-my-message-body-false {
   font-family: 'Avenir', sans-serif !important;
 }
 
 @keyframes forceFont {
   from {
-    font-family: 'Avenir', sans-serif;
+    font-family: 'Avenir';
   }
   to {
     font-family: 'Avenir', sans-serif;
